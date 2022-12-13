@@ -1,7 +1,7 @@
 # The Objective Deformation Component of a Velocity Field
 
 
-In this notebook, we present explicit calculations with the deformation velocity $$\mathbf{v}_d$$ associated to a given velocity field $\mathbf{v}$. 
+In this notebook, we present explicit calculations with the deformation velocity $\mathbf{v}_d$ associated to a given velocity field $\mathbf{v}$. 
 
 This is defined following a decomposition of the original velocity field into two components
 
