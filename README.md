@@ -6,10 +6,7 @@ In this notebook, we present explicit calculations with the deformation velocity
 This is defined following a decomposition of the original velocity field into two components
 
 $$
-\begin{equation}
-\label{eq1}
 \mathbf{v} = \mathbf{v}_{RB} + \mathbf{v}_{d},
-\end{equation}
 $$
 
 where $\mathbf{v}_{RB}$ is the rigid body-component of the velocity field and the remaining part comes from deformations. 
