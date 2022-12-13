@@ -1,7 +1,7 @@
 # The Objective Deformation Component of a Velocity Field
 
 
-In this notebook, we present explicit calculations with the deformation velocity $\mathbf{v}_d$ associated to a given velocity field $\mathbf{v}$. 
+In this notebook, we present explicit calculations with the deformation velocity $$\mathbf{v}_d$$ associated to a given velocity field $\mathbf{v}$. 
 
 This is defined following a decomposition of the original velocity field into two components
 
@@ -12,8 +12,8 @@ $$
 \end{equation}
 $$
 
-where $\mathbf{v}_{RB}$ is the rigid body-component of the velocity field and $\mathbf{v}_d$ comes from deformations. 
-We propose three criteria for defining $\mathbf{v}_{RB}$
+where $\mathbf{v}_{RB}$ is the rigid body-component of the velocity field and the remaining part comes from deformations. 
+We propose three criteria for defining the rigid body velocity field
 
 - It should be a rigid body velocity field that is closest to the original velocity field in a physically relevant norm.
 
