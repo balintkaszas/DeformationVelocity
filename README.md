@@ -26,4 +26,4 @@ This repository contains the implementation of the method proposed by B. Kaszás
 
 
 
-B. Kaszás, T. Pedergnana and G. Haller,_The Objective Deformation Component of a Velocity Field_, _European Journal of Mechanics - B/Fluids_ (in press 2022)
+B. Kaszás, T. Pedergnana and G. Haller, _The Objective Deformation Component of a Velocity Field_, _European Journal of Mechanics - B/Fluids_ (in press 2022)
